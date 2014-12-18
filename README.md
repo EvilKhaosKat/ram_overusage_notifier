@@ -7,3 +7,7 @@ For using:<br>
 1. 'pip install -r requirements.txt' to get needful libraries (psutil at the moment)<br>
 2. call 'python main.py'<br>
 3. profit =)
+
+### Prerequisites:
+* git
+* torsocks
