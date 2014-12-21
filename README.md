@@ -11,3 +11,4 @@ For using:<br>
 ### Prerequisites:
 * git
 * torsocks
+* notify-send
